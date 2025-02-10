@@ -1,0 +1,6 @@
+co\edu\eci\arep\appServer\RequestParam.class
+co\edu\eci\arep\appServer\MicroServer.class
+co\edu\eci\arep\appServer\RestController.class
+co\edu\eci\arep\appServer\GetMapping.class
+co\edu\eci\arep\appServer\GreetingController.class
+co\edu\eci\arep\appServer\MathController.class
